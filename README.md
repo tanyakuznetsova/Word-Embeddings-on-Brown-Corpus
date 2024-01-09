@@ -1,5 +1,5 @@
 # Word-Embeddings-on-Brown-Corpus
-#NLP
+
 This notebook explores how clustering semantically similar words can help make Natural Language Processing tasks easier. 
 
 # Acknowledgement
